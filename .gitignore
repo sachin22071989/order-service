@@ -32,7 +32,11 @@ hs_err_pid*
 
 ### IntelliJ IDEA ###
 *.idea
+*.mvn
 *.iws
 *.iml
 *.ipr
+*.cmd
+HELP.md
+mvnw
 
